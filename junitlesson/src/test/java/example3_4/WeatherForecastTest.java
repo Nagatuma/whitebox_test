@@ -10,7 +10,7 @@ public class WeatherForecastTest {
     /**
     テストケースNo1-1
     降水確率50％を検証する。
-    trueが帰ってくればテストOKa
+    trueが帰ってくればテストOK
     **/
     @Test
     public void checkUmbrella_1_1() {
